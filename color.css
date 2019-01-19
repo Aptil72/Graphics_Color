@@ -1,0 +1,42 @@
+html,body,div {
+	background-color: darkolivegreen;
+	height: 95%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+body {
+		max-height: 90%;
+		line-height: 1;
+}
+.box {
+	 display: inline-block;
+	height: 10%;
+	width: 10%;
+	z-index: 1;
+	 background-color: #444;
+	 margin: 0;
+}
+#main {
+	width: 800px;
+	margin:0 auto;
+}
+footer {
+   text-align: center;
+   margin-top : 5px;
+  
+}
+footer a:link {
+	color: goldenrod;
+	font-weight:bold;
+	 
+}
+p.size {
+	font-weight:bold;
+}
